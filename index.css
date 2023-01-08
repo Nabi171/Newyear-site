@@ -1,0 +1,147 @@
+.bg-body {}
+
+/* sectionOne */
+
+.newyearHead {
+    display: flex;
+    align-items: center;
+
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: #fae5df;
+}
+
+.btns {
+    background-color: #d9b3cc;
+    border: none;
+    border-radius: 5%;
+    padding: 2%;
+    font-weight: bold;
+}
+
+.imgbar {
+    width: 40%;
+    height: auto;
+}
+
+.img1 {
+    width: 100%;
+}
+
+.headContact {
+    width: 40%;
+    height: auto;
+    text-align: right;
+}
+
+
+
+
+
+/* section2 */
+
+.failure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* width: 100%; */
+}
+
+.personimg {
+    width: 70%;
+}
+
+.failsecimg {
+    width: 40%;
+}
+
+.faildec {
+    width: 40%;
+    text-align: right;
+
+}
+
+.tikmark {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* section3 */
+
+
+.planSection {
+    /* width: 100%;
+    justify-content: center;
+    align-items: center; */
+}
+
+.plan {
+    text-align: center;
+}
+
+.plandetails {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.detail {
+    width: 17%;
+}
+
+/* section4 */
+.titlemsg {
+    padding: 5%;
+}
+
+.bgwimg {
+    background-image: url('/images/watch.png');
+    background-image: linear-gradient(pink, white);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wsec {
+    width: 80%;
+    justify-content: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    border-radius: 5%;
+}
+
+.btns2 {
+    background-color: #d9b3cc;
+    border: none;
+    border-radius: 5%;
+    padding: 2%;
+    font-weight: bold;
+    margin-right: 5%;
+}
+
+/* foter section   */
+.foter {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: #000;
+
+}
+
+.footertitle {
+    width: 45%;
+    color: white;
+    padding: 5%;
+}
+
+.footermsg {
+    width: 45%;
+    color: white;
+}
+
+.inputmsg {
+    padding: 4%;
+}
