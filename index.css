@@ -69,10 +69,10 @@
 
 /* section3 */
 
-
 .planSection {
     /* width: 100%;
-    justify-content: center;
+  
+  justify-content: center;
     align-items: center; */
 }
 
@@ -96,9 +96,7 @@
 }
 
 .bgwimg {
-    background-image: url('/images/watch.png');
-    background-image: linear-gradient(pink, white);
-
+    background-image: linear-gradient(#24366588, #24366588), url('/images/watch.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -118,7 +116,8 @@
     border-radius: 5%;
     padding: 2%;
     font-weight: bold;
-    margin-right: 5%;
+    margin: 5%;
+
 }
 
 /* foter section   */
